@@ -1,4 +1,4 @@
-# Nail group chat interactive robot
+# Dingtalk interactive robot
 
 
 ### Support interactive commands:
