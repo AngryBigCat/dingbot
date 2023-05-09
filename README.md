@@ -1,11 +1,11 @@
-# 钉钉群聊可互动机器人
+# Nail group chat interactive robot
 
 
-### 支持交互命令：
+### Support interactive commands:
 ```
-/help               帮助信息
-/ip {ip}            IP归属查询
-/phone {phone}      手机号归属查询
-/exchange           当前汇率
-/news               今日头条新闻
+/help               Help Information
+/ip {ip}            IP ownership query
+/phone {phone}      Mobile phone number attribution query
+/exchange           Current exchange rate
+/news               Today's Headline News
 ```
